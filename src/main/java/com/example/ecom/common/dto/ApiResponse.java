@@ -1,6 +1,6 @@
 package com.example.ecom.common.dto;
 
-import javax.validation.constraints.NotNull;
+import jakarta.validation.constraints.NotNull;
 
 public class ApiResponse<T> {
     private boolean success;
